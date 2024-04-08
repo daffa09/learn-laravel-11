@@ -9,6 +9,7 @@ this repo is laravel 11 with vue 3 and tailwindcss, and this a sample picture
 dont forget to rename env.example to .env and fill the database configuration, and then create database with same name in config
 
 1. Clone this repo
+
 2. Run
 
 ```php
