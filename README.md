@@ -4,7 +4,6 @@ this repo is laravel 11 with vue 3 and tailwindcss, and this a sample picture
 
 ![image](https://github.com/daffa09/learn-laravel-11/assets/68214221/53f58314-bbf0-42c1-a62f-0c38f533d2a5)
 
-
 ## How to install
 
 dont forget to rename env.example to .env and fill the database configuration, and then create database with same name in config
@@ -22,19 +21,25 @@ composer install
 npm install
 ```
 
-4. Run
+4. run
 
 ```php
-npm run dev
+php artisan migrate:fresh --seed
 ```
 
 5. Run
 
 ```php
+npm run dev
+```
+
+6. Run
+
+```php
 php artisan serve
 ```
 
-6. Open your browser and go to `http://localhost:8000`
+7. Open your browser and go to `http://localhost:8000`
 
 ```
 
