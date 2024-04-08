@@ -1,6 +1,9 @@
 # Prove Learn Laravel 11
 
-this repo is laravel 11 with vue 3 and tailwindcss
+this repo is laravel 11 with vue 3 and tailwindcss, and this a sample picture
+
+![image](https://github.com/daffa09/learn-laravel-11/assets/68214221/53f58314-bbf0-42c1-a62f-0c38f533d2a5)
+
 
 ## How to install
 
